@@ -7,7 +7,9 @@ organization, creating new methods, and creating constants when needed ( I dropp
 
 below are some images and videos
 
-**[VIDEO of fixing potentiometer knobs to clock arms](https://drive.google.com/file/d/1htAkVZn_MRU75g4FiAnFm6DJqVcmmonF/view?usp=sharing)**
+**[VIDEO of fixing potentiometer knobs to clock arms (not the final project)](https://drive.google.com/file/d/1htAkVZn_MRU75g4FiAnFm6DJqVcmmonF/view?usp=sharing)**
+
+I don't know where the video went that demonstrated me actually playing this instrument, sorry!
 
 <img src = "images/image5.png" width = "700">
 <p float="left">
